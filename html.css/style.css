@@ -1,0 +1,49 @@
+body
+{
+    background-color: rgb(40, 40, 41);
+}
+#foto{
+    height:40%;
+    width:45%
+
+}
+.principal{
+padding:30px;
+color:rgb(255, 196, 0)
+}
+
+h1{ 
+    text-align: center;
+    color:orange
+}
+.titulos-safe{
+    padding-left: 20px;
+}
+b{
+background:red;
+
+}
+#missao{
+    font-size: 21px
+}
+.itens{
+    font-style : italic
+}
+.beneficios{
+    background:orange;
+    padding:20px;
+}
+ul{
+    display: inline-block;
+    vertical-align:top;
+    margin: right 10%;
+    width:15%;
+
+
+}
+.imagbene{
+    width:30%
+}
+p{
+    color: orange
+}
